@@ -1,0 +1,28 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   blog_project/accounts/migrations/0002_remove_profile_profile_picture_profile_avatar_and_more.py
+#	new file:   blog_project/accounts/migrations/__pycache__/0002_remove_profile_profile_picture_profile_avatar_and_more.cpython-313.pyc
+#	modified:   blog_project/blog/__pycache__/urls.cpython-313.pyc
+#	modified:   blog_project/blog/__pycache__/views.cpython-313.pyc
+#	modified:   blog_project/db.sqlite3
+#
+# Changes not staged for commit:
+#	modified:   blog_project/blog/__pycache__/urls.cpython-313.pyc
+#	modified:   blog_project/blog/urls.py
+#	modified:   blog_project/blog_project/__pycache__/settings.cpython-313.pyc
+#	modified:   blog_project/blog_project/__pycache__/urls.cpython-313.pyc
+#	modified:   blog_project/blog_project/settings.py
+#	modified:   blog_project/blog_project/urls.py
+#	modified:   blog_project/db.sqlite3
+#	modified:   blog_project/static/css/style.css
+#	modified:   blog_project/templates/base.html
+#
+# Untracked files:
+#	blog_project/templates/blog/all_categories.html
+#
